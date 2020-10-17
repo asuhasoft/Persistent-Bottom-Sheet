@@ -1,5 +1,7 @@
 # Persistent-Bottom-Sheet
 
+prototype persistent bottom sheet deisgn to show fragments dynamically 
+
 ## Design Implementation
 
 `bottom_sheet_layout.xml`
