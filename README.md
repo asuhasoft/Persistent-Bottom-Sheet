@@ -1,6 +1,6 @@
 # Persistent-Bottom-Sheet
 
-prototype persistent bottom sheet deisgn to show fragments dynamically 
+[prototype design] persistent bottom sheet deisgn to show fragments dynamically 
 
 ## Design Implementation
 
