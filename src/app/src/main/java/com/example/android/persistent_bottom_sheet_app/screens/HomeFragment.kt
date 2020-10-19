@@ -40,7 +40,6 @@ class HomeFragment : Fragment() {
         return root
     }
 
-
     private fun getBottomSheetFragment(): BottomSheetFragment {
         return childFragmentManager.findFragmentByTag(bottomSheetFragmentTag) as BottomSheetFragment
     }
